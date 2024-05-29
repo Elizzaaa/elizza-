@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": "2",
+      "title": "judul 2",
+      "content": "semoga bahagia"
+    },
+    {
+      "id": "3",
+      "title": "judul 3",
+      "content": "bernyanyi bersama"
+    },
+    {
+      "id": "4",
+      "title": "judul1",
+      "content": "ga boleh boros yaa"
+    },
+    {
+      "id": "5",
+      "title": "judul 5",
+      "content": "mari menabung"
+    }
+  ]
+}
